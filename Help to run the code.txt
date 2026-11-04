@@ -1,0 +1,21 @@
+Guide to run and simulate ECNN model for Gender-Specific autism identification:
+For simulation of this objective, Python has been utilized. 
+
+1. ** Loading the Scripts *******************************************************************
+	i. Custom desinged "ECNN" saved as a trained model "" on the following link:
+	    Local Link: G:\Adnan Ashraf-3820202086\03 Source Code\Paper_03  SourceCode - Gender-specific Autism\Trained Model
+
+	ii. Please Load or Install all the libraries to run the script smoothly.
+
+
+2. ** Dataset Paths ********************************************************************
+
+	i. Before Running the above file, please replace the Dataset paths one by one for Males and Females from ABIDE_I and ABIDE_II.
+	    Local Link: D:\ABIDE-Dataset\04 Datasets for Pappers\Paper_03 Labeled Data - Gender-specific Autism\ABIDE_I
+	    Local Link: D:\ABIDE-Dataset\04 Datasets for Pappers\Paper_03 Labeled Data - Gender-specific Autism\ABIDE_II
+
+
+3. ** Model's Path *********************************************************************
+
+	Vi. Before Running for inference testing, please reset the model's path.
+	    Local Link: G:\Adnan Ashraf-3820202086\03 Source Code\Paper_03  SourceCode - Gender-specific Autism\Trained Model\DN169-ECNN.pth\
